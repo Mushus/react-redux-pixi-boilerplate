@@ -9,7 +9,7 @@
     "@types/pixi.js": "^4.7.5",
     "pixi.js": "^4.8.1",
     "react": "^16.4.0",
-    "react-dom": "^16.4.0",
+    "react-dom": "^16.4.2",
     "react-pixi-fiber": "^0.4.6",
     "react-redux": "^5.0.7",
     "redux": "^4.0.0",
